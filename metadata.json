@@ -1,0 +1,6 @@
+{
+  "name": "Aura Estates | Luxury Real Estate & Property Investments",
+  "description": "Discover premium residential and commercial properties, luxury villas, modern apartments, plots, and investment opportunities with Aura Estates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
